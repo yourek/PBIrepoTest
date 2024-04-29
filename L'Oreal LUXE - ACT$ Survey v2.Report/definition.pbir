@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../L'Oreal LUXE - ACT$ Survey v2.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

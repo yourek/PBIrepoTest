@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "L'Oreal LUXE - ACT$ Survey v2"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c9821f3e-6b11-4190-8d0e-f8439839a336"
+  }
+}
